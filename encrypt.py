@@ -1,4 +1,4 @@
-def decrypt(word):
+def encrypt(word):
   i=0
   list1 = list(word)
   list2 = []
